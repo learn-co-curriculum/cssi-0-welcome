@@ -6,6 +6,9 @@ resources: none
 ---
 
 #Welcome to CSSI and Learn.co
+
+![Google CSSI](images/cssilogo.png)
+
 Welcome to Google's Computer Science Summer Institute! Our team is so excited to work with you, and join you on your journey into computer science.
 
 CSSI aims to provide an introduction to computer science for high school level students with a passion for technology. Our curriculum provides an intensive, interactive and hands-on opportunity for students with minimal exposure to CS to learn that basic concepts of programming. This content seeks to inspire the tech leaders and innovators of tomorrow by supporting the study of computer science, software engineering and other closely related subjects.
