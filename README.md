@@ -7,7 +7,7 @@ resources: none
 
 #Welcome to CSSI and Learn.co
 
-![Google CSSI](images/cssilogo.png)
+![Google CSSI](http://flatironschool-uploads.s3.amazonaws.com/cssilogo.png)
 
 Welcome to Google's Computer Science Summer Institute! Our team is so excited to work with you, and join you on your journey into computer science.
 
