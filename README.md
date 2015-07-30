@@ -1,9 +1,4 @@
----
-tags: google
-level: 0
-languages: none
-resources: none
----
+
 
 #Welcome to CSSI and Learn.co
 
