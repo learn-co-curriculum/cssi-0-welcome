@@ -11,3 +11,5 @@ CSSI aims to provide an introduction to computer science for high school level s
 We'll be using this site, Learn.co, to deliver curriculum and sample code to you throughout the course. If you can see this page, then your setup is working - no need to worry about any other installation or registration. If you have any thoughts or questions, post them in the G+ group, and we'll try to help you out.
 
 Learning to program is a wild ride, and we are going to learn so much together. We're excited to meet you and get started! Welcome!
+
+<a href='https://learn.co/lessons/cssi-0-welcome' data-visibility='hidden'>View this lesson on Learn.co</a>
