@@ -12,4 +12,4 @@ We'll be using this site, Learn.co, to deliver curriculum and sample code to you
 
 Learning to program is a wild ride, and we are going to learn so much together. We're excited to meet you and get started! Welcome!
 
-<a href='https://learn.co/lessons/cssi-0-welcome' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-0-welcome' title='Welcome to CSSI and Learn.co'>Welcome to CSSI and Learn.co</a> on Learn.co and start learning to code for free.</p>
